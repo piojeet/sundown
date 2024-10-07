@@ -22,6 +22,7 @@ body {
 
 a {
     font-family: inherit;
+    cursor: pointer;
 }
 
 .main-container {
